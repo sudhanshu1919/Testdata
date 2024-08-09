@@ -1,0 +1,218 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": [
+        { "value": "a", "text": "Hyper Text Markup Language", "correct": true },
+        { "value": "b", "text": "Hyperlinks and Text Markup Language" },
+        { "value": "c", "text": "Home Tool Markup Language" },
+        { "value": "d", "text": "Hyperlinking Textual Mark Language" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": [
+        { "value": "a", "text": "&lt;link&gt;" },
+        { "value": "b", "text": "&lt;a&gt;", "correct": true },
+        { "value": "c", "text": "&lt;href&gt;" },
+        { "value": "d", "text": "&lt;url&gt;" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Which tag is used to underline text in HTML?",
+      "options": [
+        { "value": "a", "text": "&lt;u&gt;", "correct": true },
+        { "value": "b", "text": "&lt;underline&gt;" },
+        { "value": "c", "text": "&lt;i&gt;" },
+        { "value": "d", "text": "&lt;em&gt;" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Which HTML tag is used to create an unordered list?",
+      "options": [
+        { "value": "a", "text": "&lt;ol&gt;" },
+        { "value": "b", "text": "&lt;list&gt;" },
+        { "value": "c", "text": "&lt;ul&gt;", "correct": true },
+        { "value": "d", "text": "&lt;li&gt;" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Which tag is used to define a list item?",
+      "options": [
+        { "value": "a", "text": "&lt;li&gt;", "correct": true },
+        { "value": "b", "text": "&lt;item&gt;" },
+        { "value": "c", "text": "&lt;ul&gt;" },
+        { "value": "d", "text": "&lt;ol&gt;" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Which HTML tag is used to create a table?",
+      "options": [
+        { "value": "a", "text": "&lt;tr&gt;" },
+        { "value": "b", "text": "&lt;td&gt;" },
+        { "value": "c", "text": "&lt;table&gt;", "correct": true },
+        { "value": "d", "text": "&lt;th&gt;" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Which type of CSS is defined within the &lt;style&gt; tag in the &lt;head&gt; section of an HTML document?",
+      "options": [
+        { "value": "a", "text": "Inline CSS" },
+        { "value": "b", "text": "External CSS" },
+        { "value": "c", "text": "Internal CSS", "correct": true },
+        { "value": "d", "text": "Global CSS" }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "How can you add a background color to an HTML element?",
+      "options": [
+        { "value": "a", "text": "Using the `color` attribute" },
+        { "value": "b", "text": "Using the `bgcolor` attribute" },
+        {
+          "value": "c",
+          "text": "Using the `background-color` property in CSS",
+          "correct": true
+        },
+        { "value": "d", "text": "Using the `background` attribute" }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Which attribute is used to specify the URL of an image in the &lt;img&gt; tag?",
+      "options": [
+        { "value": "a", "text": "`src`", "correct": true },
+        { "value": "b", "text": "`href`" },
+        { "value": "c", "text": "`link`" },
+        { "value": "d", "text": "`url`" }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "The CSS property used to set the margin of an element is:",
+      "options": [
+        { "value": "a", "text": "`padding`" },
+        { "value": "b", "text": "`margin`", "correct": true },
+        { "value": "c", "text": "`border`" },
+        { "value": "d", "text": "`spacing`" }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "The CSS property used to set the space inside the border of an element is:",
+      "options": [
+        { "value": "a", "text": "`padding`", "correct": true },
+        { "value": "b", "text": "`margin`" },
+        { "value": "c", "text": "`border`" },
+        { "value": "d", "text": "`spacing`" }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Which tag is used to define a division or a section in an HTML document?",
+      "options": [
+        { "value": "a", "text": "&lt;div&gt;", "correct": true },
+        { "value": "b", "text": "&lt;span&gt;" },
+        { "value": "c", "text": "&lt;section&gt;" },
+        { "value": "d", "text": "&lt;article&gt;" }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Which HTML tag is used to specify a container for an external resource?",
+      "options": [
+        { "value": "a", "text": "&lt;script&gt;" },
+        { "value": "b", "text": "&lt;link&gt;" },
+        { "value": "c", "text": "&lt;meta&gt;" },
+        { "value": "d", "text": "&lt;iframe&gt;", "correct": true }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Inline CSS is used by placing the style rules directly within the:",
+      "options": [
+        { "value": "a", "text": "&lt;head&gt; tag" },
+        { "value": "b", "text": "&lt;body&gt; tag" },
+        {
+          "value": "c",
+          "text": "`style` attribute of an HTML element",
+          "correct": true
+        },
+        { "value": "d", "text": "&lt;link&gt; tag" }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "The attribute used to set the alternative text for an image if the image cannot be displayed is:",
+      "options": [
+        { "value": "a", "text": "`title`" },
+        { "value": "b", "text": "`alt`", "correct": true },
+        { "value": "c", "text": "`src`" },
+        { "value": "d", "text": "`href`" }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "What does CSS stand for?",
+      "options": [
+        { "value": "a", "text": "Computer Style Sheets" },
+        { "value": "b", "text": "Cascading Style Sheets", "correct": true },
+        { "value": "c", "text": "Colorful Style Sheets" },
+        { "value": "d", "text": "Creative Style Sheets" }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Which HTML attribute is used to define inline styles?",
+      "options": [
+        { "value": "a", "text": "class" },
+        { "value": "b", "text": "font" },
+        { "value": "c", "text": "styles" },
+        { "value": "d", "text": "style", "correct": true }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Which CSS property controls the text size?",
+      "options": [
+        { "value": "a", "text": "font-style" },
+        { "value": "b", "text": "text-size" },
+        { "value": "c", "text": "font-size", "correct": true },
+        { "value": "d", "text": "text-style" }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Which HTML tag is used to define an internal style sheet?",
+      "options": [
+        { "value": "a", "text": "&lt;script&gt;" },
+        { "value": "b", "text": "&lt;style&gt;", "correct": true },
+        { "value": "c", "text": "&lt;meta&gt;" },
+        { "value": "d", "text": "&lt;link&gt;" }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Which CSS property is used to set the spacing between the border and the content of an element?",
+      "options": [
+        { "value": "a", "text": "margin" },
+        { "value": "b", "text": "padding", "correct": true },
+        { "value": "c", "text": "border-spacing" },
+        { "value": "d", "text": "spacing" }
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Explain the purpose of the &lt;div&gt; tag in HTML.",
+      "type": "text",
+      "marks": 4
+    }
+  ]
+}

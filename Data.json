@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
+    "name": "Sudhansu Gaikwad",
+    "username": "sudhanshu1414",
+    "email": "sudhanshugaikwad@aol.com",
     "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
+      "street": "Airport Road",
+      "suite": "MH",
+      "city": "Nanded",
+      "zipcode": "431605",
       "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
+        "lat": "6425",
+        "lng": "2365"
       }
     },
     "phone": "1-770-736-8031 x56442",
